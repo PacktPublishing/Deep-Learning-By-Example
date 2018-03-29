@@ -16,11 +16,11 @@ info_string, models = create_model_with_kfold_cross_validation()
 test_generality_crossValidation_over_test_set(info_string, models)
 ```
 
-Install the required software for this book:
-Keras
-TensorFlow
-Pandas
-Numpy
+Install the required software/packages for this book:
+Keras,
+TensorFlow,
+Pandas,
+Numpy etc
 
 
 
@@ -31,5 +31,3 @@ Numpy
 
 * [tkinter GUI Programming By Example](https://www.packtpub.com/application-development/tkinter-gui-programming-example?utm_source=github&utm_medium=repository&utm_campaign=9781788627481)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
